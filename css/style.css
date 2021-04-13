@@ -1,0 +1,17 @@
+body{
+    background-color: #FF0004;
+}
+
+#menu-nav{
+    align-items: center;
+    background-color: #DB0306;
+}
+
+.li-nav{
+    display: inline;
+    padding-right: 6%;
+    padding-left: 6%;
+}
+	
+	
+	
