@@ -1,5 +1,2 @@
 get_user() : string	# retourne l'utilisateur actuel
 set_data("x:y","{donné à implaiment}")
-
-
-update
